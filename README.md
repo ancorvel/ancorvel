@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Annabella 👋
 
-<!--
-**ancorvel/ancorvel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **MS in Financial Engineering** student with a B.S. in Mathematical & Scientific Computation from **UC Davis**. I'm interested in quantitative finance: using statistics and machine learning to understand markets and build systematic trading strategies.
 
-Here are some ideas to get you started:
+- 📈 **Currently working on:** a moving-average crossover strategy for U.S. equities, building toward a full backtest
+- 🧠 **Learning:** machine learning for financial time series and rigorous backtesting methodology
+- 📍 Portland, OR
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured project
+
+**[SMA Crossover Strategy](https://github.com/ancorvel/sma-crossover-strategy)**: exploring 20/50-day simple moving average crossover signals on AAPL as the foundation for a systematic trading strategy, with backtesting and ML extensions on the roadmap.
+
+### Tools
+
+Python · pandas · NumPy · Matplotlib · yfinance · Jupyter · Git
